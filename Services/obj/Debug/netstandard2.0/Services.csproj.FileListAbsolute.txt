@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\RT\Services\bin\Debug\netstandard2.0\Services.deps.json
+C:\Users\Dell\source\repos\RT\Services\bin\Debug\netstandard2.0\Services.dll
+C:\Users\Dell\source\repos\RT\Services\bin\Debug\netstandard2.0\Services.pdb
+C:\Users\Dell\source\repos\RT\Services\obj\Debug\netstandard2.0\Services.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\RT\Services\obj\Debug\netstandard2.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\RT\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\RT\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+C:\Users\Dell\source\repos\RT\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\RT\Services\obj\Debug\netstandard2.0\Services.dll
+C:\Users\Dell\source\repos\RT\Services\obj\Debug\netstandard2.0\Services.pdb

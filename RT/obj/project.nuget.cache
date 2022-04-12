@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BvQH+M5KQXJCTH2NHkyQxs710CsL9sWZmfHjGYY4pxvyE8ElEwaZw/oOzgOhotUBUkoHsnD8GeLilSid2qEbqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\RT\\RT\\RT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
